@@ -1,0 +1,13 @@
+C:\Users\chris\Desktop\Mercado\Mercado\bin\Debug\netcoreapp3.1\Mercado.exe
+C:\Users\chris\Desktop\Mercado\Mercado\bin\Debug\netcoreapp3.1\Mercado.deps.json
+C:\Users\chris\Desktop\Mercado\Mercado\bin\Debug\netcoreapp3.1\Mercado.runtimeconfig.json
+C:\Users\chris\Desktop\Mercado\Mercado\bin\Debug\netcoreapp3.1\Mercado.runtimeconfig.dev.json
+C:\Users\chris\Desktop\Mercado\Mercado\bin\Debug\netcoreapp3.1\Mercado.dll
+C:\Users\chris\Desktop\Mercado\Mercado\bin\Debug\netcoreapp3.1\Mercado.pdb
+C:\Users\chris\Desktop\Mercado\Mercado\obj\Debug\netcoreapp3.1\Mercado.csprojAssemblyReference.cache
+C:\Users\chris\Desktop\Mercado\Mercado\obj\Debug\netcoreapp3.1\Mercado.AssemblyInfoInputs.cache
+C:\Users\chris\Desktop\Mercado\Mercado\obj\Debug\netcoreapp3.1\Mercado.AssemblyInfo.cs
+C:\Users\chris\Desktop\Mercado\Mercado\obj\Debug\netcoreapp3.1\Mercado.csproj.CoreCompileInputs.cache
+C:\Users\chris\Desktop\Mercado\Mercado\obj\Debug\netcoreapp3.1\Mercado.dll
+C:\Users\chris\Desktop\Mercado\Mercado\obj\Debug\netcoreapp3.1\Mercado.pdb
+C:\Users\chris\Desktop\Mercado\Mercado\obj\Debug\netcoreapp3.1\Mercado.genruntimeconfig.cache
