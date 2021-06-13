@@ -13,21 +13,16 @@ namespace Mercado.Classes
             this.Nome = nome;
         }
 
-        public void lancarProduto()
+        public void lancarProduto(Carrinho carrinho, Produto produto)
         {
-            /*
-             Adicionar um produto no carrinho
-                - Insere um novo objeto do tipo Produto em uma List<Produto> passada por parâmetro
-                  da função lancarProduto()
-            */
+            carrinho.adicionarProduto(produto);
+            Console.WriteLine($"{produto.Nome}          R$ {produto.Preco.ToString()}");
         }
 
-        public void fecharCompra()
+        public void fecharCompra(Carrinho carrinho, Funcionario funcionario)
         {
-            /*
-             Finalizar a compra
-                - Calcular o valor total dos itens no carrinho
-             */
+            carrinho.fecharCompra(carrinho);
+            Console.WriteLine($"\nAtendido por: {funcionario.Nome}");
         }
 
         public void receberPagamento(string formPagamento)
